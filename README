@@ -11,7 +11,7 @@ Add this line:
 To install:
 
    apt-get update
-   apt-get install sixarm-debian-crack-packages
+   apt-get install sixarm-debian-mysql-packages
 
 To contact us with your questions, comments, and suggestions:
 
