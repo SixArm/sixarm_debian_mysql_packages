@@ -1,0 +1,9 @@
+mysql-server
+mysql-common
+mysql-client
+mytop
+libdbd-mysql-perl
+libmysqlclient-dev
+libmysql-ruby
+php5-mysql
+python-mysqldb
